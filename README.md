@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
