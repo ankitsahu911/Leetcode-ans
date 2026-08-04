@@ -3,7 +3,7 @@ public:
     vector<vector<string>> result;
 
     void backtrack(int row, int n, vector<string>& board, vector<bool>& cols, vector<bool>& diag1, vector<bool>& diag2) {
-        if (row >= n) {
+        if (row == n) {
             result.push_back(board);
             return;
         }
