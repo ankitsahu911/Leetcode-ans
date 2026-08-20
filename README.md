@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0071-simplify-path) |
 ## String Matching
 |  |
 | ------- |
