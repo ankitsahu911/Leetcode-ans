@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
