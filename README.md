@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0138-copy-list-with-random-pointer) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
