@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/ankitsahu911/Leetcode-ans/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
